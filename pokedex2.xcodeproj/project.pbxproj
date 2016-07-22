@@ -14,6 +14,7 @@
 		F901F5A61D41DF0300158A5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F901F5A41D41DF0300158A5E /* LaunchScreen.storyboard */; };
 		F901F5AE1D41E08B00158A5E /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = F901F5AD1D41E08B00158A5E /* pokemon.csv */; };
 		F901F5B11D41E2C400158A5E /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F901F5B01D41E2C400158A5E /* Pokemon.swift */; };
+		F901F5B51D41E97400158A5E /* music-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F901F5B31D41E97400158A5E /* music-2.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F901F5A71D41DF0300158A5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F901F5AD1D41E08B00158A5E /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		F901F5B01D41E2C400158A5E /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		F901F5B31D41E97400158A5E /* music-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "music-2.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F901F59D1D41DF0300158A5E /* ViewController.swift */,
 				F901F59F1D41DF0300158A5E /* Main.storyboard */,
 				F901F5AD1D41E08B00158A5E /* pokemon.csv */,
+				F901F5B31D41E97400158A5E /* music-2.mp3 */,
 				F901F5A21D41DF0300158A5E /* Assets.xcassets */,
 				F901F5A41D41DF0300158A5E /* LaunchScreen.storyboard */,
 				F901F5A71D41DF0300158A5E /* Info.plist */,
@@ -143,6 +146,7 @@
 				F901F5A31D41DF0300158A5E /* Assets.xcassets in Resources */,
 				F901F5AE1D41E08B00158A5E /* pokemon.csv in Resources */,
 				F901F5A11D41DF0300158A5E /* Main.storyboard in Resources */,
+				F901F5B51D41E97400158A5E /* music-2.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
